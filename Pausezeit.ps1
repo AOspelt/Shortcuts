@@ -1,2 +1,4 @@
+# Send Pause
+Start-Sleep -Milliseconds 2400000
 
-[System.Windows.Forms.MessageBox]::Show("Pause","Time Tracker",0)
+Invoke-Item -Path C:\GitHub\Shortcuts\pauselaessio.txt

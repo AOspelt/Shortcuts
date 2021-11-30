@@ -1,0 +1,2 @@
+DisplaySwitch.exe /extend 
+
